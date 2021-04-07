@@ -1,0 +1,3 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+2,Doctor Who,texas,4.45,tile,243.00,3.50,4.15,850.5000,1008.4500,82.72327500,1941.67327500
+3,Albert Einstein,kentucky,6.00,carpet,250,2.25,2.10,562.50,525.00,65.2500,1152.7500

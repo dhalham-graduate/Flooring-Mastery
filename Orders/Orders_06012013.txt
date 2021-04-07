@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,Ada Lovelace,kentucky,6.00,Tile,249.00,3.50,4.15,871.5000,1033.3500,114.291000,2019.141000
